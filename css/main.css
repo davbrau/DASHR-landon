@@ -14,11 +14,11 @@
 body{
 	font-family:'Open Sans',Arial,sans-serif;
 	background:#FFF;
-	font-weight:300;
+	font-weight: 600;
 	height:100%;
 	margin:0;
 	padding:0;
-	color:#94a3a8;
+	color: #94A3A8;
 	}
 	
 strong,b{
@@ -324,7 +324,7 @@ to {
 	text-align:center;
 }
 .thumbnail .caption p {
-	color: #94a3a8;
+	color: #6D7779;
 }
 /*Hover Animation*/
 
